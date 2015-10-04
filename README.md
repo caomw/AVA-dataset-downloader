@@ -1,7 +1,7 @@
-# AVA-dataset-downloader
+# AVA-dataset-downloader  
 ** You may need these scripts to download AVA images from website.**
 
-**The AVA dataset website: *http://www.vabs.info/papers/AVA/***  
+**The AVA dataset website: http://www.vabs.info/papers/AVA/**  
 AVA is a large-Scale database for aesthetic visual analysis containing 25000+ photos from dpchallenge.com.  
 However, the downloaded pakage only has image list and annotations. You may need these scripts to download AVA images from website.  
 
