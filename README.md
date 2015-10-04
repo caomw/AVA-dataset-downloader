@@ -8,4 +8,6 @@ Usage:
 ------
 1.After unzip downloaded pakage, create a new folder 'scripts' under 'AVA_dataset/' and copy the scipts into this new folder. Also create 'image' under 'AVA_dataset/' to save all images.  
 2.Specific usage of scripts please refer to scripts themselves.  
-3.Please note that downloading all images may **spent lots of time**. 'beginIndex' and 'stopIndex' may help you perform multi-process downloading manually.  
+3.Please note that downloading all images may **spent lots of time**. 'beginIndex' and 'stopIndex' may help you perform multi-process downloading manually.   
+
+2015-10-05
